@@ -1,0 +1,6 @@
+{
+  "name": "Ideal Scrap Metal",
+  "description": "Premium industrial recycling and scrap metal trading platform targeting South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
